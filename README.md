@@ -1,3 +1,19 @@
+# Note App Build with React
+<br/>
+<h3> Preview </>
+  <br/>
+  <br/>
+
+  <img src= "https://user-images.githubusercontent.com/88175067/177473259-fdd01eaa-6307-4127-addd-64c4a12ff378.png " />
+
+  <br/>
+  <br/>
+  <video width="320" height="240" controls>
+  <source src="[Video Link](https://user-images.githubusercontent.com/88175067/177473377-c1b9f65c-f438-4777-b3d5-6b4a6a13c9d7.webm)">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
